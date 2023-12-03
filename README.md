@@ -1,4 +1,4 @@
-# curso-machine-learning
+# Técnicas de Machine Learning
 
 Curso Senac - Técnicas de Machine Learning </p>
 Professora: Camila Dantas </p>
